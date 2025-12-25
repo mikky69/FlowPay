@@ -1,0 +1,44 @@
+{
+  "name": "flowpay-blockchain-payroll",
+  "version": "1.0.0",
+  "description": "FlowPay - Automated blockchain payroll system with smart contract integration",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx live-server --port=3000",
+    "build": "echo 'No build process needed for static site'",
+    "deploy": "echo 'Deploy to Vercel: vercel --prod'",
+    "test": "echo 'Open index.html in browser for testing'"
+  },
+  "keywords": [
+    "blockchain",
+    "payroll",
+    "ethereum",
+    "smart-contracts",
+    "cryptocurrency",
+    "web3",
+    "payroll-automation",
+    "flowpay"
+  ],
+  "author": "FlowPay Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/flowpay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/flowpay/issues"
+  },
+  "homepage": "https://flowpay.vercel.app",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
